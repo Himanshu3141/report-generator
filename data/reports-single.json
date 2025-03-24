@@ -1,0 +1,890 @@
+{
+    "_id": {
+        "$oid": "67df6aba474db7072e24b4e7"
+    },
+    "shiftNo": 1,
+    "shiftDate": "23-03-2025",
+    "userId": "66ee9e06c8ffad2684141708",
+    "deviceId": "SD111_9C9C1FC5FE5C",
+    "__v": 0,
+    "addedTime": {
+        "$date": "2025-03-23T01:58:18.047Z"
+    },
+    "avgpr": 2,
+    "avly": "96.67",
+    "avtm": 43200,
+    "csp": 25,
+    "cycle": 327,
+    "cycles": [
+        {
+            "cycleNo": 1,
+            "startTime": "2025-03-23 07:27:13",
+            "endTime": "2025-03-23 07:32:19",
+            "cycleTime": 306,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 2,
+            "startTime": "2025-03-23 07:44:19",
+            "endTime": "2025-03-23 07:50:10",
+            "cycleTime": 351,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 3,
+            "startTime": "2025-03-23 08:30:11",
+            "endTime": "2025-03-23 08:35:50",
+            "cycleTime": 339,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 4,
+            "startTime": "2025-03-23 08:59:50",
+            "endTime": "2025-03-23 09:05:47",
+            "cycleTime": 357,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 5,
+            "startTime": "2025-03-23 09:09:47",
+            "endTime": "2025-03-23 09:14:52",
+            "cycleTime": 305,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 6,
+            "startTime": "2025-03-23 09:34:52",
+            "endTime": "2025-03-23 09:40:01",
+            "cycleTime": 309,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 7,
+            "startTime": "2025-03-23 09:52:01",
+            "endTime": "2025-03-23 09:57:02",
+            "cycleTime": 301,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 8,
+            "startTime": "2025-03-23 10:23:02",
+            "endTime": "2025-03-23 10:28:58",
+            "cycleTime": 356,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 9,
+            "startTime": "2025-03-23 11:17:59",
+            "endTime": "2025-03-23 11:23:11",
+            "cycleTime": 312,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 10,
+            "startTime": "2025-03-23 12:10:11",
+            "endTime": "2025-03-23 12:15:54",
+            "cycleTime": 343,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 11,
+            "startTime": "2025-03-23 12:24:54",
+            "endTime": "2025-03-23 12:29:57",
+            "cycleTime": 303,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 12,
+            "startTime": "2025-03-23 12:41:57",
+            "endTime": "2025-03-23 12:47:26",
+            "cycleTime": 329,
+            "part": "job-1"
+        },
+        {
+            "cycleNo": 13,
+            "startTime": "2025-03-23 13:21:26",
+            "endTime": "2025-03-23 13:26:28",
+            "cycleTime": 302,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 14,
+            "startTime": "2025-03-23 13:30:28",
+            "endTime": "2025-03-23 13:36:07",
+            "cycleTime": 339,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 15,
+            "startTime": "2025-03-23 13:55:07",
+            "endTime": "2025-03-23 14:01:01",
+            "cycleTime": 354,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 16,
+            "startTime": "2025-03-23 14:04:01",
+            "endTime": "2025-03-23 14:09:45",
+            "cycleTime": 344,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 17,
+            "startTime": "2025-03-23 14:21:45",
+            "endTime": "2025-03-23 14:27:38",
+            "cycleTime": 353,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 18,
+            "startTime": "2025-03-23 15:02:38",
+            "endTime": "2025-03-23 15:07:49",
+            "cycleTime": 311,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 19,
+            "startTime": "2025-03-23 15:17:50",
+            "endTime": "2025-03-23 15:22:50",
+            "cycleTime": 300,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 20,
+            "startTime": "2025-03-23 16:01:50",
+            "endTime": "2025-03-23 16:07:38",
+            "cycleTime": 348,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 21,
+            "startTime": "2025-03-23 16:39:38",
+            "endTime": "2025-03-23 16:45:37",
+            "cycleTime": 359,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 22,
+            "startTime": "2025-03-23 16:55:37",
+            "endTime": "2025-03-23 17:00:38",
+            "cycleTime": 301,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 23,
+            "startTime": "2025-03-23 17:02:39",
+            "endTime": "2025-03-23 17:07:57",
+            "cycleTime": 318,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 24,
+            "startTime": "2025-03-23 17:50:57",
+            "endTime": "2025-03-23 17:56:05",
+            "cycleTime": 308,
+            "part": "job-2"
+        },
+        {
+            "cycleNo": 25,
+            "startTime": "2025-03-23 18:32:05",
+            "endTime": "2025-03-23 18:37:28",
+            "cycleTime": 323,
+            "part": "job-2"
+        }
+    ],
+    "dwnPie": [
+        {
+            "_id": "Inspection delay",
+            "downTime": 720
+        },
+        {
+            "_id": "R: Lunch",
+            "downTime": 2820
+        },
+        {
+            "_id": null,
+            "downTime": 18169
+        },
+        {
+            "_id": "Skill Loss",
+            "downTime": 2940
+        },
+        {
+            "_id": "X2: Tap Change",
+            "downTime": 661
+        },
+        {
+            "_id": "Electrical Maintenance",
+            "downTime": 600
+        },
+        {
+            "_id": "U: Change Over",
+            "downTime": 2100
+        },
+        {
+            "_id": "O: Chipa Cleaning",
+            "downTime": 720
+        },
+        {
+            "_id": "M: Management Loss",
+            "downTime": 2940
+        },
+        {
+            "_id": "InsertChange",
+            "downTime": 1920
+        }
+    ],
+    "end": "23-03-2025 19:00",
+    "hrdwn": [
+        {
+            "reason": null,
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 1546
+                },
+                {
+                    "hr": "08",
+                    "count": 3841
+                },
+                {
+                    "hr": "09",
+                    "count": 2160
+                },
+                {
+                    "hr": "10",
+                    "count": 1561
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": null
+                },
+                {
+                    "hr": "14",
+                    "count": 900
+                },
+                {
+                    "hr": "15",
+                    "count": 1
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 2580
+                },
+                {
+                    "hr": "18",
+                    "count": 2160
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "Inspection delay",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 720
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "Skill Loss",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 2940
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "R: Lunch",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 2820
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "X2: Tap Change",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 540
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 121
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "O: Chipa Cleaning",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 720
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "U: Change Over",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 2100
+                },
+                {
+                    "hr": "16",
+                    "count": 0
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "M: Management Loss",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 600
+                },
+                {
+                    "hr": "16",
+                    "count": 2340
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "InsertChange",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 1920
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "reason": "Electrical Maintenance",
+            "data": [
+                {
+                    "hr": "07",
+                    "count": 0
+                },
+                {
+                    "hr": "08",
+                    "count": 0
+                },
+                {
+                    "hr": "09",
+                    "count": 0
+                },
+                {
+                    "hr": "10",
+                    "count": 0
+                },
+                {
+                    "hr": "11",
+                    "count": 0
+                },
+                {
+                    "hr": "12",
+                    "count": 0
+                },
+                {
+                    "hr": "13",
+                    "count": 0
+                },
+                {
+                    "hr": "14",
+                    "count": 0
+                },
+                {
+                    "hr": "15",
+                    "count": 0
+                },
+                {
+                    "hr": "16",
+                    "count": 600
+                },
+                {
+                    "hr": "17",
+                    "count": 0
+                },
+                {
+                    "hr": "18",
+                    "count": 0
+                },
+                {
+                    "hr": "19",
+                    "count": 0
+                }
+            ]
+        }
+    ],
+    "hrprd": [
+        {
+            "hr": "07",
+            "count": 2
+        },
+        {
+            "hr": "08",
+            "count": 1
+        },
+        {
+            "hr": "09",
+            "count": 4
+        },
+        {
+            "hr": "10",
+            "count": 1
+        },
+        {
+            "hr": "11",
+            "count": 1
+        },
+        {
+            "hr": "12",
+            "count": 3
+        },
+        {
+            "hr": "13",
+            "count": 2
+        },
+        {
+            "hr": "14",
+            "count": 3
+        },
+        {
+            "hr": "15",
+            "count": 2
+        },
+        {
+            "hr": "16",
+            "count": 2
+        },
+        {
+            "hr": "17",
+            "count": 3
+        },
+        {
+            "hr": "18",
+            "count": 1
+        },
+        {
+            "hr": "19",
+            "count": 0
+        }
+    ],
+    "idl": 18169,
+    "macOn": 41761,
+    "machine": "Test-Device 4",
+    "oee": "17.40",
+    "oprt": 9610,
+    "plnd": 0,
+    "prf": "19.57",
+    "prt": 8171,
+    "qly": "92.00",
+    "rng": 8171,
+    "scrp": 2,
+    "scrps": [
+        {
+            "part": "job-1",
+            "partId": "1",
+            "T": "2025-03-23T12:47:26"
+        },
+        {
+            "part": "job-2",
+            "partId": "2",
+            "T": "2025-03-23T17:56:05"
+        }
+    ],
+    "start": "23-03-2025 07:00",
+    "stp": 15421,
+    "unplnd": 15421
+}
